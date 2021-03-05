@@ -33,7 +33,7 @@ Study latest technology
 - 강명구 CTO, (주)모니모니
 8. 당신이 치킨을 주문하는 사이에(트래킹 툴 이야기)
 - 정헌재CTO, AB180
-9. 웹의 새로운 제 4의 언어 WebAssembly를 알아보자
+9. 웹의 새로운 제 4의 언어 WebAssembly를 알아보자(java에서 파생된 그런 웹페이지 디자인 언어 소개)
 - 문현경 시니어 엔지니어, Studio XID
 10. AWS 최신 기술 로드맵 소개
 - 서우석 산학겸임교수, bnex CEO
